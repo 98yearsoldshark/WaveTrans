@@ -1,0 +1,8 @@
+protobuf>=4.25.2
+transformers>=4.36.2
+tokenizers>=0.15.0
+torch>=2.1.0
+streamlit>=1.30.0
+peft
+pandas
+modelscope
