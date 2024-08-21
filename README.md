@@ -56,7 +56,7 @@ streamlit run 翻译机器人.py --server.address 127.0.0.1 --server.port 6006
 ```
 
 点击
-
+ 
 ```Shell
  URL: http://127.0.0.1:6006
 ```
