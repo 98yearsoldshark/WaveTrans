@@ -35,7 +35,7 @@ rm -r rendering_baseline
 
 打开step2/Step2：微调.ipynb 文件
 
-![p](1./Image/Pasted image 20240821161115.png)
+![p](./Image/Pasted%20image%2020240821161032.png)
 
 点击“运行所有单元格”
 
