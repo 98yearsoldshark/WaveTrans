@@ -22,7 +22,7 @@
 
 进入实例，点击终端。
 
-![png](./Image/%20image%2020240821161043.png)
+![png](./Image/Pasted%20image%2020240821161043.png)
 
 复制，运行下面代码，下载文件，解压、删除。
 
@@ -39,15 +39,15 @@ rm -r rendering_baseline
 
 点击“运行所有单元格”
 
-![png](./Image/%20image%2020240821161120.png)
+![png](./Image/Pasted%20image%2020240821161120.png)
 
 完成后的状态：
 
-![png](./Image/%20image%2020240821161133.png)
+![png](./Image/Pasted%20image%2020240821161133.png)
 
 点击重启内核，释放内存
 
-![png](./Image/%20image%2020240821161149.png)
+![png](./Image/Pasted%20image%2020240821161149.png)
 
 运行翻译机器人.py
 
@@ -61,11 +61,11 @@ streamlit run 翻译机器人.py --server.address 127.0.0.1 --server.port 6006
  URL: http://127.0.0.1:6006
 ```
 
-![png](./Image/%20image%2020240821161213.png)
+![png](./Image/Pasted%20image%2020240821161213.png)
 
 我们输入需要翻译的英文，如下
 
-![png](./Image/%20image%2020240821161226.png)
+![png](./Image/Pasted%20image%2020240821161226.png)
 
 
 可能你测试以后发现效果不好，这是因为训练集太少，以及参数设置未达到最优。
