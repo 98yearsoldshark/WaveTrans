@@ -18,7 +18,7 @@
 
 点击打开，没有创建的同学，返回原文档创建——[动手学大模型应用全栈开发](https://datawhaler.feishu.cn/wiki/XJA9w5be6iiSDLk58LvcKhZvngh)
 
-![[.Image/Pasted image 20240821161032.png]]
+![Image/Pasted image 20240821161032.png](Image/Pasted image 20240821161032.png)
 
 进入实例，点击终端。
 
