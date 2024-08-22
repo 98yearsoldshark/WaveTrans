@@ -63,7 +63,7 @@ streamlit run 翻译机器人.py --server.address 127.0.0.1 --server.port 6006
 
 ![png](./Image/Pasted%20image%2020240821161213.png)
 
-我们输入需要翻译的英文，如下
+我们输入需要翻译的英文，如下：
 
 ![png](./Image/Pasted%20image%2020240821161226.png)
 
